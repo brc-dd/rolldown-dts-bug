@@ -1,0 +1,2 @@
+patchedDependencies:
+  '@types/markdown-it-attrs': patches/@types__markdown-it-attrs.patch
